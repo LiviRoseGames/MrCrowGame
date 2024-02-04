@@ -1,0 +1,15 @@
+[gd_scene load_steps=5 format=3 uid="uid://cbepwdseovr4w"]
+
+[ext_resource type="PackedScene" uid="uid://cj1i63yfhvgne" path="res://Mr.Crow/Assets/Crow Modle/crow_15.blend" id="1_vudi6"]
+[ext_resource type="Texture2D" uid="uid://ciycv8xcxaujj" path="res://Mr.Crow/Assets/Crow Modle/Diff_Map3.png" id="2_4xyw0"]
+[ext_resource type="Texture2D" uid="uid://b526d2sq7g8id" path="res://Mr.Crow/Assets/Crow Modle/Norm_Map.png" id="3_gp6vk"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_shop1"]
+albedo_texture = ExtResource("2_4xyw0")
+normal_enabled = true
+normal_texture = ExtResource("3_gp6vk")
+
+[node name="crow_15" instance=ExtResource("1_vudi6")]
+
+[node name="Crow" parent="Armature/Skeleton3D" index="0"]
+surface_material_override/0 = SubResource("StandardMaterial3D_shop1")

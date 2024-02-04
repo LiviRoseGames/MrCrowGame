@@ -1,3 +1,13 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1706402627
-icon.svg::CompressedTexture2D::2193852947508705845::1706401982::1706403364::1::::<><>::
+::res://::1707085167
+icon.svg::CompressedTexture2D::2193852947508705845::1706402986::1707083945::1::::<><>::
+::res://Mr.Crow/::1707084026
+::res://Mr.Crow/Assets/::1707084573
+::res://Mr.Crow/Assets/Crow Modle/::1707085237
+crow_15.blend::PackedScene::5458757385253705486::1707084521::1707085191::1::::<><>::
+Diff_Map3.png::CompressedTexture2D::5384057887168117883::1707084555::1707085280::1::::<><>::
+Norm_Map.png::CompressedTexture2D::4549713223058098759::1707084554::1707085237::1::::<><>::
+::res://Mr.Crow/Assets/Crow Modle/textures/::1707085186
+Diff_Map1.png::CompressedTexture2D::5992569654305543438::1707085169::1707085186::1::::<><>::
+::res://Mr.Crow/Scenes/::1707085164
+mr_crow_movement_test.tscn::PackedScene::9195661245950095671::1707085164::0::1::::<><>::
